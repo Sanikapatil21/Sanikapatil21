@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanika Patil</h1>
-<h3 align="center">🔭 I’m B.Tech computer science student and Graduate in 2026 .</h3>
+<h3 align="center">A full Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available on [my github](https://github.com/Sanikapatil21)
 
