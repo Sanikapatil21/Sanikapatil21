@@ -4,15 +4,14 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 👀 Interests
 - 💻 Java Full Stack Development  
-- 🌐 Web Development (Spring MVC, JSP, React)  
-- 📊 Data Science & Machine Learning  
-- 🤖 AIML & Generative AI  
-- ☁ Cloud Computing (AWS, GCP)
+- 🌐 Web Development :HTML, CSS, JavaScript, React, Bootstrap  
+- ⚙ Backend Development :Node.js, Express.js, Spring, Java
+- 🗄 Database Management :MySQL, MongoDB
+- 📱 Building Responsive and Interactive Web Apps
 
 ## 🌱 Currently Learning
 - 🧠 AI/ML Projects using LangChain & LLMs  
 - ⚙️ Building REST APIs and Microservices  
-- ☁ AWS Cloud & Architecture  
 - 🧩 MERN Stack (MongoDB, Express, React, Node.js)
 
 ## 💞 Collaboration Opportunities
@@ -31,16 +30,16 @@ You can contact me through:
 - She/Her
 
 ## ⚡ Fun Fact
-- I once completed a coding challenge while on a road trip! 🚗💻
+- I once debugged an entire Java project at 2 AM with nothing but coffee ☕💻
 
 ---
 
 ### 🔧 Tools & Technologies I Use
 
-- *Languages:* Java, Python, HTML, CSS, JavaScript, SQL  
-- *Frameworks & Libraries:* Spring MVC, Hibernate, JSP, React, Node.js  
+- *Languages:* C,Java, HTML, CSS, JavaScript, SQL  
+- *Frameworks & Libraries:* Spring MVC, Hibernate, JSP, React, Node.js,Bootstrap 
 - *Databases:* MySQL, MongoDB  
-- *Cloud Platforms:* AWS, Google Cloud  
+- *Other Tools & Platforms:* Canva, XAMPP  
 - *Version Control:* Git, GitHub  
 - *Dev Tools:* Eclipse, VS Code, Postman, Apache Tomcat
 
@@ -48,7 +47,7 @@ You can contact me through:
 
 ### 📚 My GitHub Stats
 
-![Vaibhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavipatil0241&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Sanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavipatil0241&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
