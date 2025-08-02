@@ -47,7 +47,8 @@ You can contact me through:
 
 ### 📚 My GitHub Stats
 
-![Sanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavipatil0241&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanikapatil21&layout=compact&theme=radical)
+
 
 ---
 
