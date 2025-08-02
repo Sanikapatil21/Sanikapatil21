@@ -38,8 +38,7 @@
 ### 📫 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/sanika-patil-05bb4025a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="sanika linkedin" height="30" width="30" /></a>
-  <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="sanika instagram" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" alt="sanika youtube" height="30" width="30" /></a>
+
 </p>
 
 
