@@ -26,7 +26,7 @@ I'm open to collaborating on:
 ## 📫 Reach Me
 You can contact me through:
 - 📧 Email: sanikasatishpatil@gmail.com  
-- 🔗 LinkedIn: [Sanika Patil][(https://www.linkedin.com/in/sanika-patil-05bb4025a)]
+- 🔗 LinkedIn: [Sanika Patil](https://www.linkedin.com/in/sanika-patil-05bb4025a)
 
 
 ## ⚡ Fun Fact
