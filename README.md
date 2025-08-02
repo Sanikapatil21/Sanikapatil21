@@ -1,50 +1,58 @@
-<h1 >Hi 👋, I'm Sanika Patil</h1>
-<h3 >A Full Stack Developer</h3>
+# 👋 Hi, I'm Sanika Patil (@Sanikapatil21)
 
-<p >🎓 I'm a B.Tech Computer Science student, graduating in 2026</p>
-<p >📂 All of my projects are available on <a href="https://github.com/Sanikapatil21">My Github</a></p>
+Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and solving real-world problems using technology. Explore my projects, academic work, and innovations.
 
----
+## 👀 Interests
+- 💻 Java Full Stack Development  
+- 🌐 Web Development (Spring MVC, JSP, React)  
+- 📊 Data Science & Machine Learning  
+- 🤖 AIML & Generative AI  
+- ☁ Cloud Computing (AWS, GCP)
 
-### 🧠 My Coding Profiles:
-<p align="left">
-  <a href="https://www.codechef.com/users/sanikapatil21" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" height="30"/>
-  </a>
-  <a href="https://www.leetcode.com/sanika_patil2004" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
-  </a>
-</p>
+## 🌱 Currently Learning
+- 🧠 AI/ML Projects using LangChain & LLMs  
+- ⚙️ Building REST APIs and Microservices  
+- ☁ AWS Cloud & Architecture  
+- 🧩 MERN Stack (MongoDB, Express, React, Node.js)
 
----
+## 💞 Collaboration Opportunities
+I'm open to collaborating on:
+- College & Research Projects  
+- Java/Spring Full-Stack Applications  
+- Open-source Tools  
+- AI-integrated Web Apps  
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</p>
+## 📫 Reach Me
+You can contact me through:
+- 📧 Email: sanikasatishpatil@gmail.com  
+- 🔗 LinkedIn: [Sanika Patil][(https://www.linkedin.com/in/sanika-patil-05bb4025a)]
 
----
+## 😄 Pronouns
+- She/Her
 
-### 📫 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/sanika-patil-05bb4025a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="sanika linkedin" height="30" width="30" /></a>
-
-</p>
-
+## ⚡ Fun Fact
+- I once completed a coding challenge while on a road trip! 🚗💻
 
 ---
 
-### 📫 Contact Me:
-📧 Email: **sanikasatishpatil@gmail.com**
+### 🔧 Tools & Technologies I Use
+
+- *Languages:* Java, Python, HTML, CSS, JavaScript, SQL  
+- *Frameworks & Libraries:* Spring MVC, Hibernate, JSP, React, Node.js  
+- *Databases:* MySQL, MongoDB  
+- *Cloud Platforms:* AWS, Google Cloud  
+- *Version Control:* Git, GitHub  
+- *Dev Tools:* Eclipse, VS Code, Postman, Apache Tomcat
 
 ---
+
+### 📚 My GitHub Stats
+
+![Vaibhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavipatil0241&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+### 🔗 Connect With Me
+
+Feel free to explore my repositories, and don’t hesitate to reach out if you have questions or ideas.  
+Let’s collaborate and build something impactful together! 🚀
