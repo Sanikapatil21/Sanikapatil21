@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sanika Patil (@Sanikapatil21)
+# 👋 Hi, I'm Sanika Patil 
 
 Welcome to my GitHub profile! 🚀 I’m Sanika Patil — a passionate software developer who loves problem‑solving and innovation. From building responsive web apps to powerful back‑end systems, I turn ideas into impactful solutions. My repositories showcase my projects, academic work, and open‑source contributions.
 
@@ -26,11 +26,8 @@ I'm open to collaborating on:
 ## 📫 Reach Me
 You can contact me through:
 - 📧 Email: sanikasatishpatil@gmail.com  
-- 🔗 LinkedIn: [Sanika Patil](https://www.linkedin.com/in/sanika-patil-05bb4025a)
-  
+- 🔗 LinkedIn: [Sanika Patil][(https://www.linkedin.com/in/sanika-patil-05bb4025a)]
 
-## 😄 Pronouns
-- She/Her
 
 ## ⚡ Fun Fact
 - I once debugged an entire Java project at 2 AM with nothing but coffee ☕💻
