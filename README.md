@@ -51,6 +51,9 @@ You can contact me through:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanikapatil21&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanikapatil21&theme=radical)
+
+
 ---
 
 ### 🔗 Connect With Me
