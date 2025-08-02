@@ -1,8 +1,8 @@
-<h1 >Hi 👋, I'm Sanika Patil</h1>
-<h3 >A Full Stack Developer</h3>
+<h1>Hi 👋, I'm Sanika Patil</h1>
+<h3>A Full Stack Developer</h3>
 
-<p >🎓 I'm a B.Tech Computer Science student, graduating in 2026</p>
-<p >📂 All of my projects are available on <a href="https://github.com/Sanikapatil21">My Github</a></p>
+<p>🎓 I'm a B.Tech Computer Science student, graduating in 2026</p>
+<p>📂 All of my projects are available on <a href="https://github.com/Sanikapatil21">My Github</a></p>
 
 ---
 
@@ -31,21 +31,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
 ### 📫 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/sanika-patil-05bb4025a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="sanika linkedin" height="30" width="30" /></a>
-  <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="sanika instagram" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" alt="sanika youtube" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/sanika-patil-05bb4025a" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="sanika linkedin" height="30" width="30" />
+  </a>
 </p>
-
 
 ---
 
 ### 📫 Contact Me:
 📧 Email: **sanikasatishpatil@gmail.com**
-
----
