@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sanika Patil</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h1 >Hi 👋, I'm Sanika Patil</h1>
+<h3 >A Full Stack Developer</h3>
 
-<p align="center">🎓 I'm a B.Tech Computer Science student, graduating in 2026</p>
-<p align="center">📂 All of my projects are available on <a href="https://github.com/Sanikapatil21">My Github</a></p>
+<p >🎓 I'm a B.Tech Computer Science student, graduating in 2026</p>
+<p >📂 All of my projects are available on <a href="https://github.com/Sanikapatil21">My Github</a></p>
 
 ---
 
