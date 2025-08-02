@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanika Patil (@Sanikapatil21)
 
-Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and solving real-world problems using technology. Explore my projects, academic work, and innovations.
+Welcome to my GitHub profile! 🚀 I’m Sanika Patil — a passionate software developer who loves problem‑solving and innovation. From building responsive web apps to powerful back‑end systems, I turn ideas into impactful solutions. My repositories showcase my projects, academic work, and open‑source contributions.
 
 ## 👀 Interests
 - 💻 Java Full Stack Development  
@@ -10,9 +10,11 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - 📱 Building Responsive and Interactive Web Apps
 
 ## 🌱 Currently Learning
-- 🧠 AI/ML Projects using LangChain & LLMs  
-- ⚙️ Building REST APIs and Microservices  
-- 🧩 MERN Stack (MongoDB, Express, React, Node.js)
+- 🚀 Advanced Java Full‑Stack Development (Spring Boot, REST APIs)
+- ⚙️ Microservices Architecture & Cloud Deployment (AWS, Docker)
+- 🤖 AI & Machine Learning Basics with Python
+- 🎨 Modern Front‑End Design with Tailwind CSS & Bootstrap
+
 
 ## 💞 Collaboration Opportunities
 I'm open to collaborating on:
