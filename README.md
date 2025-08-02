@@ -48,6 +48,8 @@ You can contact me through:
 ### 📚 My GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanikapatil21&layout=compact&theme=radical)
+
+
 ![Sanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanikapatil21&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 
