@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🚀 I’m Sanika Patil — a passionate software 
 ## 👀 Interests
 - 💻 Java Full Stack Development  
 - 🌐 Web Development :HTML, CSS, JavaScript, React, Bootstrap  
-- ⚙ Backend Development :Node.js, Express.js, Spring, Java
+- ⚙ Backend Development :Spring, Java
 - 🗄 Database Management :MySQL, MongoDB
 - 📱 Building Responsive and Interactive Web Apps
 
@@ -37,7 +37,7 @@ You can contact me through:
 ### 🔧 Tools & Technologies I Use
 
 - *Languages:* C,Java, HTML, CSS, JavaScript, SQL  
-- *Frameworks & Libraries:* Spring MVC, Hibernate, JSP, React, Node.js,Bootstrap 
+- *Frameworks & Libraries:* Spring MVC, Hibernate, JSP,React,Bootstrap 
 - *Databases:* MySQL, MongoDB  
 - *Other Tools & Platforms:* Canva, XAMPP  
 - *Version Control:* Git, GitHub  
